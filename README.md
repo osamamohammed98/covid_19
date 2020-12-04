@@ -2,7 +2,8 @@
 
 A new Flutter application.
 
-https://github.com/osamamohammed98/covid_19/issues/1
+![covid_19](https://user-images.githubusercontent.com/27555246/101209385-4ff17180-367c-11eb-8154-d21f41b3050c.png)
+
 
 ## Getting Started
 
